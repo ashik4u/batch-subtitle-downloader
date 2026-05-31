@@ -29,7 +29,7 @@ https://subsource.net/subtitles/title-name/season-1
 3. Install the script through your userscript manager.
 4. Open a supported Subsource.net subtitles page.
 5. Use the userscript manager menu and choose `Set API Key`.
-6. Enter your Subsource API key.
+6. Enter your Subsource API key. (Get API from https://subsource.net/dashboard/profile)
 7. Select subtitles and click `Download`.
 
 ## Notes
